@@ -1,0 +1,30 @@
+{
+  "name": "cylon-myo",
+  "description": "Cylon module for the Myo",
+  "homepage": "http://cylonjs.com",
+  "author": "Adaemi, Inc. <dev@splitelement.com>",
+  "version": "0.0.18",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "chai": "3.0.0",
+    "mocha": "2.2.5",
+    "sinon": "1.15.4",
+    "sinon-chai": "2.8.0",
+    "eslint":     "0.22.1"
+  },
+  "keywords": [
+    "cylon",
+    "cylonjs",
+    "cylons",
+    "robot",
+    "robots",
+    "robotics",
+    "iot",
+    "hardware",
+    "myo"
+  ],
+  "dependencies": {
+    "cylon": "1.2.0",
+    "myo": "^2.1.0"
+  }
+}
