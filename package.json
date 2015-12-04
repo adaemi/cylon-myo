@@ -3,14 +3,19 @@
   "description": "Cylon module for the Myo",
   "homepage": "http://cylonjs.com",
   "author": "Adaemi, Inc. <dev@splitelement.com>",
+  "bugs": "https://github.com/adaemi/cylon-myo/issues",
   "version": "0.0.18",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "devDependencies": {
     "chai": "3.0.0",
     "mocha": "2.2.5",
     "sinon": "1.15.4",
     "sinon-chai": "2.8.0",
     "eslint":     "0.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adaemi/cylon-myo"
   },
   "keywords": [
     "cylon",
