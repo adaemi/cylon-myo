@@ -63,11 +63,5 @@ Cylon.robot({
 
 Connect the Myo as per standard procedure.
 
-## Documentation
-
-We're busy adding documentation to our web site at http://cylonjs.com/ please check there as we continue to work on Cylon.js
-
-Thank you!
-
 ## License
 MIT
