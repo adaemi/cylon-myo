@@ -4,7 +4,7 @@
   "homepage": "http://cylonjs.com",
   "author": "Adaemi, Inc. <dev@splitelement.com>",
   "bugs": "https://github.com/adaemi/cylon-myo/issues",
-  "version": "0.0.18",
+  "version": "0.0.27",
   "license": "MIT",
   "devDependencies": {
     "chai": "3.0.0",

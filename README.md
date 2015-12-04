@@ -1,12 +1,8 @@
 # Cylon.js For Myo
 
-Cylon.js (http://cylonjs.com) is a JavaScript framework for robotics and physical computing using Node.js
-
 This module provides an adaptor and drivers for Thalmic Labs's [Myo Gesture Control Armband](http://myo.com). It uses the myo module (https://github.com/thalmiclabs/myo.js) created by thalmiclabs (https://github.com/thalmiclabs)
 
-Want to use Ruby on robots? Check out the sister project Artoo (http://artoo.io)
-
-Want to use the Go programming language to power your robots? Check out the sister project Gobot (http://gobot.io).
+Cylon.js (http://cylonjs.com) is a JavaScript framework for robotics and physical computing using Node.js
 
 ## How to Install
 
