@@ -50,7 +50,6 @@ Cylon.robot({
         });
         my.myo_device.on('locked', function(){
             console.log("locked: ");
-
         });
         my.myo_device.on('unlocked', function(){
             console.log("unlocked: ");
@@ -62,12 +61,6 @@ Cylon.robot({
 ## How to Connect
 
 Connect the Myo as per standard procedure.
-
-## Documentation
-
-We're busy adding documentation to our web site at http://cylonjs.com/ please check there as we continue to work on Cylon.js
-
-Thank you!
 
 ## License
 MIT
